@@ -1,0 +1,11 @@
+[
+    {
+      "name" : "relgen",
+      "title" : "Wikimedia OTRS release generator",
+      "description" : "Generates release eMails to be sent to OTRS.",
+      "url" : "https://tools.wmflabs.org/relgen",
+      "keywords" : "otrs, copyright, commons",
+      "author" : "FDMS",
+      "repository" : "https://github.com/Toollabs/relgen"
+    }
+]
